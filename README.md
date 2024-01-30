@@ -1,1 +1,1 @@
-# Frontend Development with Angular JS
+# Frontend Development with Vue JS
