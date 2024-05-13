@@ -1,0 +1,3 @@
+[submodule "swe_js"]
+	path = swe_js
+	url = git@github.com:pandohansamuel19/swe_js.git
